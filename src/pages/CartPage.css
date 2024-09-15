@@ -1,0 +1,31 @@
+.cart-page {
+    padding: 20px;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  .cart-items {
+    margin-bottom: 20px;
+  }
+  
+  .cart-summary {
+    text-align: right;
+  }
+  
+  .cart-summary h2 {
+    margin-bottom: 10px;
+  }
+  
+  .cart-summary p {
+    font-size: 1.5rem;
+  }
+  
+  .checkout-btn {
+    background-color: #142b5a;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
